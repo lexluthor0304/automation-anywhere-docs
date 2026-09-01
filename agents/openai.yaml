@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automation Anywhere Docs"
+  short_description: "Search official Automation Anywhere documentation"
+  default_prompt: "Use $automation-anywhere-docs to find the current official guidance for my Automation Anywhere question."
